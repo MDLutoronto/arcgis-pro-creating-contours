@@ -5,6 +5,9 @@ description: "Digital elevation models (DEMs) are geospatial datasets that conta
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 created_date: 2024-01-17
 permalink: "/"  #! Remove this if not the homepage
 ---
