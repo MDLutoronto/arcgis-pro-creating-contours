@@ -56,3 +56,5 @@ You may also find these related guides helpful as you work with DEM files:
   
 **Troubleshooting Tips:** 
 Try experimenting with different contour intervals to find the one that works best for your needs. Always be sure to include the contour interval in filenames and any description of the image or polylines. The choice of contour interval is one that is informed by 1) how you will use contours, 2) changes in elevation within the extent of the DEM, 3) input resolution of the DEM, and 4) storage capacity on your computer.
+
+Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro) | Data Format: [DEM](https://mdlutoronto.github.io/tutorials-search/?dataFormat=DEM), [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)
