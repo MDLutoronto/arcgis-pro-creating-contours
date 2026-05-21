@@ -23,10 +23,10 @@ You may also find these related guides helpful as you work with DEM files:
 **Working with digital elevation models in ArcGIS:** [https://mdl.library.utoronto.ca/technology/tutorials/working-digital-elevation-models-arcgis](https://mdl.library.utoronto.ca/technology/tutorials/working-digital-elevation-models-arcgis) 
 
 **Selecting the right projection:** 
-[https://mdl.library.utoronto.ca/technology/tutorials/selecting-right-projection](https://mdl.library.utoronto.ca/technology/tutorials/selecting-right-projection) 
+[https://mdlutoronto.github.io/selecting-right-projection/](https://mdlutoronto.github.io/selecting-right-projection/) 
 
 **Projecting your data:** 
-[https://mdl.library.utoronto.ca/technology/tutorials/projecting-your-data-arcgis-pro](https://mdl.library.utoronto.ca/technology/tutorials/projecting-your-data-arcgis-pro)
+[https://mdlutoronto.github.io/projecting-data-arcgis-pro/](https://mdlutoronto.github.io/projecting-data-arcgis-pro/)
 
  
 
