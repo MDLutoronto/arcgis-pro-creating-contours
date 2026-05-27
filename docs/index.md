@@ -20,8 +20,6 @@ To download a DEM file from [GeoGratis](https://ftp.maps.canada.ca/pub/nrcan_rnc
   
 You may also find these related guides helpful as you work with DEM files:
 
-**Working with digital elevation models in ArcGIS:** [https://mdl.library.utoronto.ca/technology/tutorials/working-digital-elevation-models-arcgis](https://mdl.library.utoronto.ca/technology/tutorials/working-digital-elevation-models-arcgis) 
-
 **Selecting the right projection:** 
 [https://mdlutoronto.github.io/selecting-right-projection/](https://mdlutoronto.github.io/selecting-right-projection/) 
 
