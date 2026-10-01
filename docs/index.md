@@ -16,7 +16,7 @@ permalink: "/"  #! Remove this if not the homepage
 
 Digital elevation models (DEMs) are geospatial datasets that contain elevation values sampled according to a regularly spaced rectangular grid. They can be used in terrain analysis, SD visualizations and hydrological modelling, among other applications. DEMs can be stored in several different formats; however, conversion into a raster dataset is often required for many processes. This tutorial explains how to derive contours from DEMs using ArcGIS Pro.
 
-To download a DEM file from [GeoGratis](https://ftp.maps.canada.ca/pub/nrcan_rncan/vector/index/html/geospatial_product_index_en.html) as was done in this tutorial, follow the instructions in this [guide](https://mdl.library.utoronto.ca/technology/tutorials/downloading-data-geogratis) but select the Elevation tab instead of Raster.  
+To download a DEM file from [GeoGratis](https://ftp.maps.canada.ca/pub/nrcan_rncan/vector/index/html/geospatial_product_index_en.html) as was done in this tutorial, follow the instructions in this [guide](https://mdlutoronto.github.io/geogratis-downloading-data/) but select the Elevation tab instead of Raster.  
   
 You may also find these related guides helpful as you work with DEM files:
 
